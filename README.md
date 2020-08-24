@@ -6,4 +6,4 @@ Easy yet powerful, extendable, storage agnostic ETL / data extraction framework 
 
 | Version    | Date       | Status  | Description                                                                        |
 | ---------- | ---------- | ------- | ---------------------------------------------------------------------------------  | 
-| v0.1.0     | 2020-08-01 | planned |  Supported inputs and outputs:  <br> - AWS S3 <br> - Elasticsearch <br> - Filesystem |
+| v0.1.0     | 2021-08-01 | planned |  Supported inputs and outputs:  <br> - AWS S3 <br> - Elasticsearch <br> - Filesystem |
